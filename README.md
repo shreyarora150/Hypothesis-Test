@@ -12,3 +12,7 @@ pandas
 scipy
 
 Data used:
+City_Zhvi_AllHomes.csv source - https://www.zillow.com	
+gdplev.xls source - https://www.wikipedia.com
+
+	
